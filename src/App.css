@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
+
+button {
+  margin: 1rem;
+}
+
+.teal {
+  background-color: #59c3c3;
+}
+
+.orange {
+  background-color: #fe7f2d;
+}
+
+.purple {
+  background-color: #52489c;
+}
+
+.green {
+  background-color: #daff7d;
+}
+
+.red {
+  background-color: #d11149;
+}
